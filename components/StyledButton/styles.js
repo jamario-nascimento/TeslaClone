@@ -6,17 +6,17 @@ const styles = StyleSheet.create({
         padding: 10
     },
     button: {
-        backgroundColor: 'yellow',
         height: 40,
         borderRadius: 20,
         justifyContent: 'center',
-        alignItens: 'center',
+        alignItems: 'center'
+       
     },
     text: {
         fontSize: 12,
-        fontWeight: '500',
+        fontWeight: 500,
         textTransform: 'uppercase',
-        textColor:'black',
+        textAlign: 'center',
     },
 
 })
